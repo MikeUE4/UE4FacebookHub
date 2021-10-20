@@ -18,3 +18,15 @@ https://rearandroid.com
 <string name="fb_login_protocol_scheme">{YOUR_FACEBOOK_TOKEN}</string>
 
 ![newm](https://user-images.githubusercontent.com/37648290/137561901-3a8685ac-700a-4075-9c3c-69a773cf15a5.png)
+
+
+
+STEPS:
+1. Register at https://developers.facebook.com/
+2. Create and App depending upon your usage you may select Game or App
+(if you select App you will not get features such as changing username and avataar while login,Invite FRiends and more)
+3. After creating your app select setup for login
+4. Add your Package name in the Required Project field
+5. Add your Packagename.MainActivity in the Required Project class for login function call in the setup section(for example if your package name is com.x.y fill in the filed with com.x.y.MainActivity)
+6. Then create a Sha256 using cmd as mentioned in teh setup documentation.
+7.now you are able to use Login,Invite friends and Share InGame posts
