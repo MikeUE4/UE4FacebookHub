@@ -1,4 +1,4 @@
-# UE4FacebookHub
+# UE4SocialHub
 
 Change the $YourPackageName in .uml file to your PackageName.R for exmaple if your package name is com.sample.project then replace $YourPackageName with com.sample.project.R 
 
