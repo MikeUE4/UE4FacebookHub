@@ -30,3 +30,10 @@ STEPS:
 5. Add your Packagename.MainActivity in the Required Project class for login function call in the setup section(for example if your package name is com.x.y fill in the filed with com.x.y.GameActivity)
 6. Then create a Sha256 using cmd as mentioned in teh setup documentation.
 7.now you are able to use Login,Invite friends and Share InGame posts
+
+
+
+
+FEATURES 
+![UE4AndroiEnv - Unreal Editor 10_21_2021 10_49_31 AM](https://user-images.githubusercontent.com/37648290/138216572-1c643b36-00a0-41b5-9a14-4aa9d704ded8.png)
+
